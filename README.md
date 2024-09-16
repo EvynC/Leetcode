@@ -1,2 +1,2 @@
 # Leetcode
-Python and Java
+Python and Java Leetcodes daily
